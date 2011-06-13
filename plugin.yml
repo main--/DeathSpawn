@@ -1,0 +1,9 @@
+name: DeathSpawn
+main: com.bukkit.Baummann.DeathSpawn.DeathSpawn
+version: 1.0
+
+commands:
+   setdeathspawn:
+      description: Re-set the death spawn position.
+      usage:
+           /<command>
